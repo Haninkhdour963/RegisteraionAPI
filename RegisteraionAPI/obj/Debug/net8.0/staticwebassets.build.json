@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "KdfQcez2j4KH+Mv5ZmU1aLH7+70nnGbt386MUaGOsUI=",
+  "Source": "RegisteraionAPI",
+  "BasePath": "_content/RegisteraionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RegisteraionAPI\\wwwroot",
+      "Source": "RegisteraionAPI",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\RegisteraionAPI\\RegisteraionAPI\\wwwroot\\",
+      "BasePath": "_content/RegisteraionAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\RegisteraionAPI\\RegisteraionAPI\\wwwroot\\css\\styles.css",
+      "SourceId": "RegisteraionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\RegisteraionAPI\\RegisteraionAPI\\wwwroot\\",
+      "BasePath": "_content/RegisteraionAPI",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\RegisteraionAPI\\RegisteraionAPI\\wwwroot\\index.html",
+      "SourceId": "RegisteraionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\RegisteraionAPI\\RegisteraionAPI\\wwwroot\\",
+      "BasePath": "_content/RegisteraionAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\RegisteraionAPI\\RegisteraionAPI\\wwwroot\\js\\script.js",
+      "SourceId": "RegisteraionAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\RegisteraionAPI\\RegisteraionAPI\\wwwroot\\",
+      "BasePath": "_content/RegisteraionAPI",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ]
+}
